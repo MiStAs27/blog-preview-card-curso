@@ -1,2 +1,2 @@
-# Proyecto de Yhonatan Leonardo Mamani torrez 
-# EVALUACION ⭐⭐⭐⭐⭐
+# Proyecto de Herlan Mistas 
+# nextjs
